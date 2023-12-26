@@ -1,0 +1,28 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.insideContainer {
+  display: flex;
+  flex-direction: row;
+}
+.special {
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+  margin-top: 13px;
+  margin-right: 10px;
+  text-align: flex-start;
+}
+.button {
+  height: 8px;
+  width: 8px;
+}
+.specialHead {
+  color: #475569;
+  font-size: 20px;
+}
+.domain {
+  text-align: flex-end;
+}
